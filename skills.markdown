@@ -4,26 +4,56 @@ title: Skills
 permalink: /skills/
 ---
 
-# Front-End
-JavaScript, TypeScript, Angular, React, HTML, CSS, d3.js
+### Front-End
+- JavaScript
+- TypeScript
+- Angular
+- React
+- HTML 
+- CSS
+- d3.js
 
-# Back-End
-C#, .NET, Entity Framework, Python, Java Spring Boot, Node.js, Docker
+### Back-End
+- C#
+- .NET
+- Entity Framework
+- Python
+- Java Spring Boot
+- Node.js
+- Docker
 
-# Database
-SQL Server, Oracle, PostgreSQL, DuckDB, SQLite
+### Data
+- SQL Server
+- Oracle
+- PostgreSQL
+- DuckDB
+- SQLite
+- dbts
 
-# Machine Learning
-TensorFlow, Keras, PyTorch, scikit-learn, pandas
+### Machine Learning
+- TensorFlow
+- Keras
+- PyTorch
+- scikit-learn
+- pandas
 
-# Cloud
-AWS, Azure, GCP
+### Cloud
+- AWS
+- Azure
+- GCP
 
-# Testing
-Selenium, NUnit
+### Testing
+- Selenium
+- NUnit
 
-# CI/CD
-GitHub Actions, TeamCity
+### CI/CD
+- GitHub Actions
+- TeamCity
+- Bitbucket Pipelines
 
-# Collaboration
-GitHub, Jira, Bitbucket, Confluence, Azure DevOps
+### Collaboration
+- GitHub
+- Jira
+- Bitbucket
+- Confluence
+- Azure DevOps
