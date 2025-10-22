@@ -36,6 +36,8 @@ permalink: /skills/
 - PyTorch
 - scikit-learn
 - pandas
+- Weights & Biases
+- Mlflow
 
 ### Cloud
 - AWS
@@ -45,6 +47,8 @@ permalink: /skills/
 ### Testing
 - Selenium
 - NUnit
+- jest
+- pytest
 
 ### CI/CD
 - GitHub Actions
@@ -57,3 +61,9 @@ permalink: /skills/
 - Bitbucket
 - Confluence
 - Azure DevOps
+
+### Healthcare Standards
+
+- FHIR
+  - FHIRPath
+- HL7 v2
