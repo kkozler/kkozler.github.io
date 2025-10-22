@@ -2,6 +2,7 @@
 layout: page
 title: Skills
 permalink: /skills/
+published: false
 ---
 
 ### Front-End

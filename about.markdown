@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Keegan Kozler
+title: About
 permalink: /
 redirect_from:
   - /about
