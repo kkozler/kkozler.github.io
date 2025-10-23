@@ -8,8 +8,15 @@ redirect_from:
 
 <img src="/assets/me.jpg" alt="Keegan Kozler" align="right" width="300"/>
 
-I'm a seasoned software engineer and machine learning specialist with over seven years of experience in building web applications and leading teams and over two years of experience in machine learning research and development. I've delivered impactful results in both front-end and back-end domains, drawing on technologies like Angular, .NET, Node.js, and Java Spring Boot to modernize legacy systems and build scalable solutions. In parallel with my application development work, I've developed a strong focus on machine learning — particularly in healthcare — where I design and train deep learning models that enable data-driven insights and improve patient outcomes.
+Hi! I'm Keegan! 
 
-In muy current role as a Senior AI/ML Consultant at X by 2, I'm engaged in building Choreo-ED, a patient flow solution for emergency departments. Prior to this, I held multiple positions at ProModel (later BigBear.ai), progressing from QA Analyst to Lead Software Engineer. Throughout my career, I've championed agile practices, automation, and thorough testing to ensure robust, maintainable codebases. I've also completed a Master of Science in Computer Science (with a specialization in machine learning) at Georgia Institute of Technology, underscoring my commitment to staying at the cutting edge of technology.
+I'm a software engineer with 7+ years of experience building web applications and leading teams. 
+I pride myself on delivering impactful results in both front-end and back-end domains, whether working with legacy systems or greenfield projects.
 
-Outside of my professional pursuits, I'm an avid musician and play piano and guitar. I also enjoy the challenge of strategy games and, in my free time, unwinding with books, movies, and quality time with my wife and two kids. 
+In my time as a machine learning engineer at X by 2, I've worked with a great team to build Choreo-ED, a patient flow solution for emergency departments. During that time, I also completed a Master of Science in Computer Science at Georgia Institute of Technology, specializing in machine learning.
+Prior to this, I served as a technical lead at ProModel (later BigBear.ai) on their Shipyard AI product. Check out my [Resume](resume/) page for more specifics!
+
+I get excited when I'm able to work with great people to build cool things, and I love striving with my team toward the best possible version of ourselves as individuals and teammates.  
+
+In my life outside of work  , I'm an avid musician and play piano and guitar. 
+I also enjoy the challenge of strategy games and, in my free time, unwinding with books, movies, and quality time with my wife and two kids. 
