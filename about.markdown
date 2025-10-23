@@ -42,6 +42,10 @@ redirect_from:
 
 /* Stack image below text on mobile */
 @media (max-width: 768px) {
+  .post-header {
+    display: none;
+  }
+  
   .about-container {
     flex-direction: column;
     align-items: center;
