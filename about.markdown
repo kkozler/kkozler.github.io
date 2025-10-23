@@ -6,7 +6,7 @@ redirect_from:
   - /about
 ---
 
-<img src="/assets/me.jpg" alt="Keegan Kozler" align="right" width="300"/>
+<img src="/assets/me.jpg" alt="Keegan Kozler" align="right" width="300" style="padding-left: 5px"/>
 
 Hi! I'm Keegan! 
 
@@ -18,5 +18,5 @@ Prior to this, I served as a technical lead at ProModel (later BigBear.ai) on th
 
 I get excited when I'm able to work with great people to build cool things, and I love striving with my team toward the best possible version of ourselves as individuals and teammates.  
 
-In my life outside of work  , I'm an avid musician and play piano and guitar. 
+In my life outside of work, I'm an avid musician and play piano and guitar. 
 I also enjoy the challenge of strategy games and, in my free time, unwinding with books, movies, and quality time with my wife and two kids. 
